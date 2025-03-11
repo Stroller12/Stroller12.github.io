@@ -4,15 +4,16 @@ hero:
   name: 信步书史的博客
   text: 这个我的个人博客，欢迎访问.
   tagline: stroller
- 
+  image:
+    src: /public/头像.jpg
    
   actions:
     - theme: brand
-      text: 快来快来
+      text: 开始访问
       link: /articles/大文件上传
     - theme: alt
       text: View on guihub
-      link: https://github.com/Stroller12
+     
 features:
   - icon: ⚡️
     title: 面试题汇总
