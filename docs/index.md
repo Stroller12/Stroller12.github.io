@@ -4,9 +4,8 @@ hero:
   name: 信步书史的博客
   text: 这个我的个人博客，欢迎访问.
   tagline: stroller
-  image:
-    src: /public/头像.jpg
-    alt: Kitty
+ 
+   
   actions:
     - theme: brand
       text: 快来快来
